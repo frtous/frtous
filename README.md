@@ -10,7 +10,7 @@ and mortgage and household credit markets.
 
 | Repository | Paper |
 | --- | --- |
-| [distributional-house-price-cycles](https://github.com/frtous/distributional-house-price-cycles) | *Distributional house price cycles* (2026) |
+| [distributional-house-price-cycles](https://github.com/frtous/distributional-house-price-cycles) | [*Distributional house price cycles*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7510918) (2026) |
 | [LTI_HP](https://github.com/frtous/LTI_HP) | House-price results in Peydró, Rodríguez Tous, Tripathy and Uluc, [*Macroprudential Policy, Mortgage Cycles, and Distributional Effects*](https://doi.org/10.1093/rfs/hhad070), **RFS** 37(3), 2024 |
 
 ### Elsewhere
